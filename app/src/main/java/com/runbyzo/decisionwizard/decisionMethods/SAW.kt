@@ -1,5 +1,20 @@
 package com.runbyzo.decisionwizard.decisionMethods
 
+
+//val companies = listOf<String>("Mpstats.io", "Moneyplace.io", "Маяк", "MarketGuru", "Shopstat")
+//
+//val props = listOf(
+//    doubleArrayOf(1.0,9.0,8.0,8.0,7.0),
+//    doubleArrayOf(9.0,9.0,8.0,7.0,6.0),
+//    doubleArrayOf(9.0,8.0,8.0,8.0,7.0),
+//    doubleArrayOf(10.0,9.0,7.0,8.0,7.0),
+//    doubleArrayOf(9.0,8.0,9.0,9.0,6.0),
+//    doubleArrayOf(5.0,6.0,9.0,7.0,10.0)
+//)
+//
+//val benefit = booleanArrayOf(true, true, true, true, false)
+//val weights = doubleArrayOf(0.25, 0.25, 0.15, 0.25, 0.10)
+
 class SAW() {
     fun sawMethod(names: List<String>,
                   criteria: List<DoubleArray>,
